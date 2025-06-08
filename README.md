@@ -1,5 +1,4 @@
-# Crear README más detallado con agentes y flujo de trabajo
-readme_detallado = """
+
 # Marketia – You Imagine It. We Create It.
 
 Marketia is a multi-agent AI system designed to create complete marketing campaigns based on a single product input.
